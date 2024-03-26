@@ -4,10 +4,13 @@
 <div align="center">
   <h2>Data Science Undergraduate </h2>
 </div>
+
 - 👋 Hi, I’m @Premkumar Yathursan
+- 
 - 👀 I’m interested in web and mobile application development
+- 
 - 🌱 I’m currently learning BA (hons) IT specialized in data science]
-- 💞️ I’m looking to collaborate on 
+
 
 
 <!---
